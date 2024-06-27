@@ -3,8 +3,8 @@
 <h3 align="center">B.S. in Computer Sciecne October 2023 - Present at University of Information Technology VNU-HCM and Birmingham City University, Viet Nam.</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="tk" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkhangg0910&show_icons=true&theme=tokyonight" alt="tk" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="tk" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tkhangg0910&show_icons=true&theme=tokyonight" alt="tk" />
 </p>
 <!---
 - 🔭 I’m currently working on ...
