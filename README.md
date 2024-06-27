@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Huynh Tan Khang</h1>
-<h3 align="center">B.S. in Computer Sciecne October 2023 - Present at University of Information Technology VNU-HCM, Viet Nam.</h3>
+<h3 align="center">B.S. in Computer Sciecne October 2023 - Present at University of Information Technology VNU-HCM and Birmingham City University, Viet Nam.</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tkhangg0910&show_icons=true&theme=tokyonight" alt="tk" /></p>
 <!---
