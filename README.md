@@ -16,6 +16,8 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>   </a> 
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/365630?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15658638?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
+        <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/34455048?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
         <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" alt="python" width="40" height="40"/>   </a> 
         <a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="python" width="40" height="40"/>   </a> 
@@ -24,7 +26,6 @@
          <a href="https://lightgbm.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" alt="python" width="40" height="40"/>   </a> 
         <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/xgboost-logo-rwd.png.rendition.intel.web.480.360.png" alt="python" width="40" height="40"/>   </a> 
         <a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/57251745?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
-        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15658638?s=48&v=4" alt="python" width="40" height="40"/>   </a> 
 </p>
 </p>
 <p>
