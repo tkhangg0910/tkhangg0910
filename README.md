@@ -9,10 +9,6 @@
 <a href="https://www.linkedin.com/in/htk0910/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="phamducthe2k1" height="30" width="40" /></a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkhangg0910&layout=compact&theme=tokyonight" alt="tk" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tkhangg0910&show_icons=true&theme=tokyonight" alt="tk" />
-</p>
 <!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
