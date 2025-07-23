@@ -6,6 +6,8 @@
 <p align="left">
 <a href="https://www.facebook.com/huynh.tan.khang123" target="blank">Facebook</a>
 <a href="https://www.linkedin.com/in/htk0910/" target="blank">Linkedin</a>
+  <a href="htkhangg@gmail.com" target="blank">Gmail</a>
+
 </p>
 
 <!---
